@@ -1,9 +1,9 @@
-<img width="1901" height="867" alt="Screenshot 2026-02-20 093259" src="https://github.com/user-attachments/assets/4b1270a8-d428-4d6c-8910-e35254eb41c5" />
-
 💰 Personal Finance Tracker
 
 A modern and responsive Personal Finance Tracker built using React + TypeScript.
 This application helps users manage income and expenses, visualize financial data, and track spending efficiently.
+
+<img width="1901" height="867" alt="Screenshot 2026-02-20 093259" src="https://github.com/user-attachments/assets/4b1270a8-d428-4d6c-8910-e35254eb41c5" />
 
 🚀 Features
 
